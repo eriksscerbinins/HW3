@@ -1,0 +1,57 @@
+body {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKFjhc9Dp4mPz1RZiIQTHnwTwAusfwMdVKA&usqp=CAU') no-repeat fixed bottom;
+    background-size: cover;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .links {
+    text-align: left;
+  }
+  
+  .my-link1 {
+    color: rgb(178, 158, 32);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .my-link:hover {
+    color: rgb(228, 128, 228);
+  }
+  
+  .my-link2 {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .my-link2:hover {
+    color: rgb(95, 80, 161);
+    text-decoration: line-through;
+  }
+  
+  .my-link3 {
+    color: rgb(25, 129, 32);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .my-link3:hover {
+    color: rgb(27, 227, 214);
+    text-decoration: underline overline;
+  }
+
+  
